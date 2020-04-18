@@ -1,6 +1,6 @@
 # do-not-open-twitter
 
-If you went twitter, I redirect to SoundCloud.
+If you went to twitter, I redirect to SoundCloud.
 
 ## How to install
 
