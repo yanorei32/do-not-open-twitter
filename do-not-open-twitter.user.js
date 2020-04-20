@@ -5,7 +5,7 @@
 // @include		https://twitter.com/*
 // @include		https://mobile.twitter.com/*
 // @include		https://tweetdeck.twitter.com/*
-// @include		https://www.google.com/*
+// @include		https://soundcloud.com/*
 // @author		yanorei32
 // @website		https://github.com/Yanorei32/do-not-open-twitter
 // @namespace	http://yano.teamfruit.net/~rei/
@@ -17,7 +17,7 @@
 
 (function() {
 	'use strict';
-	if (/google.com/.test(location.href)){
+	if (/soundcloud.com/.test(location.href)){
 		return;
 	}
 	location.href = 'https://soundcloud.com/you/likes';
