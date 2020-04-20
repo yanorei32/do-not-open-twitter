@@ -3,6 +3,7 @@
 // @description	Redirect to SoundCloud
 // @version		0.1.0
 // @include		https://twitter.com/*
+// @include		https://mobile.twitter.com/*
 // @include		https://tweetdeck.twitter.com/*
 // @author		yanorei32
 // @website		https://github.com/Yanorei32/do-not-open-twitter
