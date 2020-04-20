@@ -17,7 +17,7 @@
 
 (function() {
 	'use strict';
-	if (/soundcloud.com/.test(location.href)){
+	if (/https:\/\/soundcloud.com/g.test(location.href)){
 		return;
 	}
 	location.href = 'https://soundcloud.com/you/likes';
